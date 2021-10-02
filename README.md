@@ -4,8 +4,8 @@
 
 ## Nodejs 系列
 
-- [服务器部署](./Node%20系列/服务器部署.md)
-- [浅析 NodeJS 多进程和集群](./Node%20系列/浅析%20NodeJS%20多进程和集群.md)
+- [服务器部署](https://github.com/makeryi/blog/issues/1)
+- [浅析 NodeJS 多进程和集群](https://github.com/makeryi/blog/issues/2)
 
 ## Babel 源码解析系列
 
